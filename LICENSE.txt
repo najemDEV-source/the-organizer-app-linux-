@@ -1,0 +1,18 @@
+Organizer App License
+
+Copyright (c) 2025 NajemDev-source
+
+Permission is hereby granted to any individual to use this software for personal, non-commercial purposes only.
+
+You may:
+- Use the software as-is for personal tasks
+- Share the original, unmodified version with proper credit
+
+You may NOT:
+- Reverse engineer, decompile, disassemble, or modify any part of this software
+- Use this software for commercial purposes, including selling, bundling, or monetizing
+- Redistribute modified versions or derivatives
+
+This software is provided "as-is" without any warranty or guarantee of performance. The author is not liable for any damages arising from its use.
+
+By using this software, you agree to these terms.
