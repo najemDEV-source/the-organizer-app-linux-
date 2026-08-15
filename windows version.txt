@@ -1,0 +1,8 @@
+Windows version:  
+A paid Windows build is available on Gumroad.
+The license is lifetime and works on up to 7 devices.
+https://nasource.gumroad.com/l/theorganizerapp
+
+Free version:  
+If you want to try the tool for free, you can download the Linux build or the free Windows demo on itch.io:
+https://na-source.itch.io/organizer-app-free
